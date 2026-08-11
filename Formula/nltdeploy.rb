@@ -1,8 +1,8 @@
 class Nltdeploy < Formula
   desc "Bash tools for local development and service management"
   homepage "https://github.com/farfarfun/nltdeploy"
-  url "https://github.com/farfarfun/nltdeploy/archive/refs/tags/v0.1.14.tar.gz"
-  sha256 "de0fdff2b77abde250e9d01b3418cc99be8cb81a03d1f9dc03308bca25fad4be"
+  url "https://github.com/farfarfun/nltdeploy/archive/refs/tags/v0.1.15.tar.gz"
+  sha256 "d83ea0b51b62f8f1d661f4a975f1e0dfe668379839527551d523ccf87824f7d4"
   license "MIT"
 
   def install
