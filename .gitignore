@@ -1,0 +1,34 @@
+# Python and package tooling
+__pycache__/
+*.py[cod]
+*.db
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Runtime output
+.run/
+logs/
+*.log
+
+# Editors and local configuration
+.idea/
+.vscode/
+.claude/*
+!.claude/agents/
+!.claude/commands/
+!.claude/skills/
+!.claude/settings.json
+.codex/*
+!.codex/agents/
+!.codex/commands/
+!.codex/skills/
+!.codex/settings.json
+.cursor/*
+!.cursor/agents/
+!.cursor/commands/
+!.cursor/skills/
+!.cursor/settings.json
+.DS_Store
