@@ -1,8 +1,8 @@
 class Fundeploy < Formula
   desc "Bash tools for local development and service management"
   homepage "https://github.com/farfarfun/fundeploy"
-  url "https://github.com/farfarfun/fundeploy/archive/refs/tags/v0.1.15.tar.gz"
-  sha256 "9c0798131b8bba4573902059e080ec9a5c2f4849dab86009651d8f10aa044354"
+  url "https://github.com/farfarfun/fundeploy/archive/refs/tags/v0.1.17.tar.gz"
+  sha256 "60ae1c8a04e886f5a65fda9f39ae08d3141e3cba7c45461177010e4113f7569f"
   license "MIT"
 
   def install
