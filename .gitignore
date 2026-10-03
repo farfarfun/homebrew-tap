@@ -12,6 +12,7 @@ venv/
 .run/
 logs/
 *.log
+*.rar
 
 # Editors and local configuration
 .idea/
